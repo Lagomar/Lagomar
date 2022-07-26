@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Lagomar
-- 👀 I’m interested in making downright bodacious moves!
-- 🌱 I’m currently learning python 🐍
-- 💞️ I’m looking to collaborate on projects that can build my portfolio.
-- 📫 Reach me on Discord! 
+- 👀 I’m interested in understanding software develoement and data analytics!
+- 🌱 I’m currently learning HTML, CSS, and JavaScript. 
+- 💞️ I’m looking to learn and build my portfolio.
+
 
 <!---
 Lagomar/Lagomar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

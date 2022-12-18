@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Lagomar
 - 👀 I’m interested in understanding software develoement and data analytics!
-- 🌱 I’m currently learning HTML, CSS, and JavaScript. 
+- 🌱 I’m currently learning HTML, CSS, JavaScript, and Python. 
 - 💞️ I’m looking to learn and build my portfolio.
 
 
